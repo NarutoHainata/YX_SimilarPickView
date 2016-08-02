@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MainTableViewController.h
 //  YX_SimilarPickView
 //
 //  Created by yang on 16/8/2.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface MainTableViewController : UIViewController
 
 @end
-
